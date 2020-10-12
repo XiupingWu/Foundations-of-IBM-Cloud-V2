@@ -1,1 +1,13 @@
+1.1.1. Describe a Public Cloud.
 
+		I. A public cloud is a tyoe if cloud computing in whihc a third party service provider makes computing resources, which can include anything from ready-to-use software applications, to individual VMs, to complete enterprise-grade infrastructures and development platforms—available to users over the public Internet.
+
+		II. Rescources may be accessible for free, or access might be be sold according to subscription-based or pay-per-usage prcing models.
+
+		III. The public cloud provider owns and administers the data centers where customers' workloads run. 
+
+		IV. Providers Responsibility: All hardwares and infrastructure maintenance; prodvides high-bandwidth network connectivity; manages the underlying virtualization software.
+
+		V. Architectures:  Multi-tenant environments—users share a pool of virtual resources that are automatically provisioned for and allocated to individual tenants through a self-service interface.
+
+		VI. Rapidly growing global marketing. Many enterprises are moving portions of their computing infrastructure to the public cloud because public cloud services are elastic and readily scalable, flexibly adjusting to meet changing workload demands.
